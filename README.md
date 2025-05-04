@@ -6,4 +6,4 @@ Barebone setup for:
 
 - https://github.com/hotwired/spark
 
-# pfd-786-spark_tempalte
+- esbuild
