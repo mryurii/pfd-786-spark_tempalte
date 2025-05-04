@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Barebone setup for:
 
-Things you may want to cover:
+- https://tailwindcss.com/docs/installation/framework-guides/ruby-on-rails
 
-* Ruby version
+- https://github.com/hotwired/spark
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# pfd-786-spark_tempalte
