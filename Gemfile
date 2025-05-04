@@ -65,3 +65,5 @@ gem "tailwindcss-ruby", "~> 4.1"
 gem "tailwindcss-rails", "~> 4.2"
 
 gem "hotwire-spark", "~> 0.1.13", group: :development
+
+gem "jsbundling-rails", "~> 1.3"
